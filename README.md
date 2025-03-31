@@ -6,7 +6,8 @@
 3. Open neovim run Lazy install every thing
 4. Restart neovim
 5. Open neovim run Mason
-6. Should be done!
+6. Repeat step 4
+7. Should be done!
 
 ## Plugin List
 - "goolord/alpha-nvim"
