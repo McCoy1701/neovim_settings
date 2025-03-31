@@ -4,5 +4,9 @@ return {
   main = "ibl",
   opts = {
     indent = { char = "|" },
+    whitespace = {
+        remove_blankline_trail = true,
+    },
+    scope = { enabled = true },
   },
 }
